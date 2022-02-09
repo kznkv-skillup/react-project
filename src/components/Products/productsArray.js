@@ -6,6 +6,7 @@ export const productsArray = [
         capacity: '256',
         type: 'phone',
         price: '1000',
+        image: '/images/iphone-black.jpeg',
     },
     {
         id: 2,
@@ -14,6 +15,7 @@ export const productsArray = [
         capacity: '128',
         type: 'phone',
         price: '2000',
+        image: '/images/iphone-gold.jpeg',
     },
     {
         id: 3,
@@ -22,6 +24,7 @@ export const productsArray = [
         capacity: '64',
         type: 'phone',
         price: '500',
+        image: '/images/iphone-silver.jpeg',
     },
     {
         id: 4,
@@ -30,7 +33,9 @@ export const productsArray = [
         capacity: '512',
         type: 'phone',
         price: '2500',
+        image: '/images/iphone-blue.jpeg',
     },
+
     {
         id: 5,
         name: 'iPhone 8 Plus',
@@ -38,6 +43,7 @@ export const productsArray = [
         capacity: '64',
         type: 'phone',
         price: '1000',
+        image: '/images/iphone-silver.jpeg',
     },
     {
         id: 6,
@@ -46,5 +52,6 @@ export const productsArray = [
         capacity: '32',
         type: 'phone',
         price: '500',
+        image: '/images/iphone-gold.jpeg',
     },
 ]
